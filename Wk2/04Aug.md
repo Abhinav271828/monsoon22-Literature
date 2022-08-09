@@ -63,7 +63,7 @@ author: Taught by Prof. Nazia Akhtar
         - Soon hungered for Swami's company.
 
 # Characters
-[Abrams, p. 32-4, p. ?]
+[Abrams, p. 32-4, p. 284-5]
 [Barnet et al., p. 101-2]
 
 ## Study of Characters

@@ -32,3 +32,13 @@ Notes and resources for the Introduction to Literature course at IIIT Hyderabad.
         - Characteristics of a Short Story
             - Classification
             - Narrative Strategies
+* Week 3
+    * Lecture 4  (08 August, Monday)
+        - Readings
+            - About the Author
+            - Characteristics of the Short Story
+            - Barth's Postmodern Experiments with the Short Story
+            - Point of View
+                - Third-Person Narration
+                - First-Person Narration
+                - Second-Person Narration
