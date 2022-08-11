@@ -32,6 +32,8 @@ However, note that these are not the only literary qualities of the short story 
 Barth experimented with the briefness of the short story and the "nestedness" of the frame narrative. He wrote a one-sentence short story and analysed the depth of frame tales, finding that they rarely exceeded five levels of nesting.
 
 ## Point of View
+[Abrams p. 231]
+
 The point of view is "the way a story gets told"; it is the voice that narrates the story to the reader.
 
 **Recommended.** *Chimera* (John Barth), *My Name is Red* (Orhan Pamuk).

@@ -33,7 +33,7 @@ Notes and resources for the Introduction to Literature course at IIIT Hyderabad.
             - Classification
             - Narrative Strategies
 * Week 3
-    * Lecture 4  (08 August, Monday)
+    * Lecture 4 (08 August, Monday)
         - Readings
             - About the Author
             - Characteristics of the Short Story
@@ -42,3 +42,11 @@ Notes and resources for the Introduction to Literature course at IIIT Hyderabad.
                 - Third-Person Narration
                 - First-Person Narration
                 - Second-Person Narration
+    * Lecture 5 (11 August, Thursday)
+        - Readings (Chippy)
+            - Point of View (contd.)
+            - Character
+            - Humour
+        - Readings (Why Shouldn't the Baindla Woman Ask for Her Land?)
+            - Social Reality and the Short Story
+            - About the Author
