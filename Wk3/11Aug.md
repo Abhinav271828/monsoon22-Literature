@@ -23,7 +23,7 @@ The author uses many devices to express humour in the story. For example, "...he
 The fact that Chippy was "...almost a member of the Champion Tennis Club" and "...never missed a single meeting" is humorous due to the anthropomorphisation of Chippy. Other examples of this are the "businesslike manner" in which the newcomer walks past Chippy at his spot behind the garage.  
 The ending, too, is an example of *dark humour* – in this case humour through irony.
 
-# Readings (Why Shouldn't the Baindla Woman Ask for Her Land?)
+# Readings (But Why Shouldn't the Baindla Woman Ask for Her Land?)
 ## Social Reality and the Short Story
 All art is rooted in a particular social and political context; it cannot exist in a vacuum. Even if the artist is not openly political or does not address social issues in writing. For example, the number of dystopian science fiction stories arising out of the Soviet era.
 

@@ -47,6 +47,10 @@ Notes and resources for the Introduction to Literature course at IIIT Hyderabad.
             - Point of View (contd.)
             - Character
             - Humour
-        - Readings (Why Shouldn't the Baindla Woman Ask for Her Land?)
+        - Readings (But Why Shouldn't the Baindla Woman Ask for Her Land?)
             - Social Reality and the Short Story
             - About the Author
+* Week 4
+    * Lecture 6 (18 August, Thursday)
+        - Readings (But Why Shouldn't the Baindla Woman Ask for Her Land?) (contd.)
+            - Story
