@@ -54,3 +54,10 @@ Notes and resources for the Introduction to Literature course at IIIT Hyderabad.
     * Lecture 6 (18 August, Thursday)
         - Readings (But Why Shouldn't the Baindla Woman Ask for Her Land?) (contd.)
             - Story
+        - Readings (The Woman in Black)
+            - About the Author
+* Week 5
+    * Lecture 7 (22 August, Monday)
+        - Readings (The Woman in Black)
+            - About the Author (contd.)
+            - Story
