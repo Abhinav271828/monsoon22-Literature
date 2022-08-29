@@ -2,11 +2,11 @@
 Notes and resources for the Introduction to Literature course at IIIT Hyderabad.
 
 # Course Outline
-- [ ] Defining Literature and Its Place
-- [ ] The Literariness of Literature
-- [ ] Major Genres of Literature
-- [ ] Major Concepts, Methods and Theories of Literature
-- [ ] Literature in the Digital Age
+- [x] Introduction
+- [ ] Short Story
+- [ ] Poetry
+- [ ] Drama
+- [ ] Novel
 
 # Lecture Contents
 * Week 1
@@ -61,3 +61,7 @@ Notes and resources for the Introduction to Literature course at IIIT Hyderabad.
         - Readings (The Woman in Black)
             - About the Author (contd.)
             - Story
+* Week 6
+    * Lecture 8 (29 August, Monday)
+        - Readings (The Woman in Black)
+            - Story (contd.)
