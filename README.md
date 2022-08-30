@@ -65,3 +65,12 @@ Notes and resources for the Introduction to Literature course at IIIT Hyderabad.
     * Lecture 8 (29 August, Monday)
         - Readings (The Woman in Black)
             - Story (contd.)
+        - Readings (Today I Say Unto Waris Shah)
+            - Translation
+            - About the Poet
+    * Lecture 9 (30 August, Tuesday)
+        - Readings (Today I Say Unto Waris Shah) (contd.)
+            - Metaphor
+        - Readings (Prega News)
+            - About the Poet
+            - Imagery

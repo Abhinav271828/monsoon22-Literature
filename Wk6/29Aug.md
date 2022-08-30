@@ -23,5 +23,4 @@ Translation always takes in place in a *hierarchy* between two languages, depend
 ## About the Poet
 Amrita Pritam was a Punjabi poet and novelist who wrote in Punjabi and Hindi, and came to Delhi from Lahore as a partition refugee soon after her marriage. This was the context in which she wrote *Ajj Aakhaan Waris Shah Nu*, or *Today I Say Unto Waris Shah*, and the novel *Pinjar*, or *The Skeleton*.
 
-Waris Shah was a Sufi poet of the 18th century, considered the first contemporary Punjabi poet. He is most known for his rendition of the legend of *Heer Ranjha*. Sufi poetry tends to be allegorical – for example, *Heer Ranjha* is a social critique of caste and class, as a challenge to social hierarchy and order.  
-In this work, Waris Shah is a metonym for Punjabiyat.
+Waris Shah was a Sufi poet of the 18th century, considered the first contemporary Punjabi poet. He is most known for his rendition of the legend of *Heer Ranjha*. Sufi poetry tends to be allegorical – for example, *Heer Ranjha* is a social critique of caste and class, as a challenge to social hierarchy and order.
