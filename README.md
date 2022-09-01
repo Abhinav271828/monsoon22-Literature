@@ -74,3 +74,10 @@ Notes and resources for the Introduction to Literature course at IIIT Hyderabad.
         - Readings (Prega News)
             - About the Poet
             - Imagery
+    * Lecture 10 (01 September, Thursday)
+        - Readings (Prega News)
+            - Imagery (contd.)
+            - Translation
+        - Readings (Broken Love)
+            - About the Poet
+            - Text
