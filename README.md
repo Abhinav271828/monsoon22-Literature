@@ -81,3 +81,9 @@ Notes and resources for the Introduction to Literature course at IIIT Hyderabad.
         - Readings (Broken Love)
             - About the Poet
             - Text
+* Week 7
+    * Lecture 11 (05 September, Monday)
+        - Readings (Broken Love)
+            - Text (contd.)
+        - Readings (Secunderabad Sans Light)
+            - Text
