@@ -87,3 +87,9 @@ Notes and resources for the Introduction to Literature course at IIIT Hyderabad.
             - Text (contd.)
         - Readings (Secunderabad Sans Light)
             - Text
+    * Lecture 12 (06 September, Tuesday)
+        - Visual Form
+        - Readings (Agha Shahid Ali)
+            - About the Poet
+            - Text (At the Museum)
+        - Mechanics of the Ghazal
