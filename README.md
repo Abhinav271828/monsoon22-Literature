@@ -3,7 +3,7 @@ Notes and resources for the Introduction to Literature course at IIIT Hyderabad.
 
 # Course Outline
 - [x] Introduction
-- [ ] Short Story
+- [x] Short Story
 - [ ] Poetry
 - [ ] Drama
 - [ ] Novel
@@ -93,3 +93,5 @@ Notes and resources for the Introduction to Literature course at IIIT Hyderabad.
             - About the Poet
             - Text (At the Museum)
         - Mechanics of the Ghazal
+        - Readings (Agha Shahid Ali) (contd.)
+            - Text (Ghazal)
