@@ -8,8 +8,8 @@ header-includes:
 - \newfontfamily\devanagarifont{KohinoorDevanagari-Regular}
 ---
 
-# Readings (Agha Shahid Ali)
-## Text (Ghazal) (contd.)
+# Readings (Agha Shahid Ali) (contd.)
+## Text (Ghazal)
 This ghazal is one of a pair that Agha Shahid Ali wrote on this theme. The fact that he left out a specific title is meant to indicate that it belongs to the ghazal genre, which typically does not assign a title different from the first line of the [मत्ला]{lang=hi}.  
 The first version of this ghazal did not have a [क़ाफ़िया]{lang=hi}, and was revised to include one later.
 
