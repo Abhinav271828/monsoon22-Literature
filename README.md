@@ -6,7 +6,7 @@ Notes and resources for the Introduction to Literature course at IIIT Hyderabad.
 - [x] Short Story
 - [x] Poetry
 - [x] Drama
-- [ ] Digital Literature
+- [x] Digital Literature
 - [ ] Novel
 
 # Lecture Contents
@@ -130,4 +130,15 @@ Notes and resources for the Introduction to Literature course at IIIT Hyderabad.
             - About the Author
             - Historical Fiction
             - Features of the Book
-            - Rani Jindan
+            - Prologue
+                - Rani Jindan
+    * Lecture 20 (13 October, Thursday)
+        - Readings (The Last Queen)
+            - Prologue
+                - Rani Jindan (contd.)
+                - Narration
+                - Characterisation
+                - Narrative Tension
+            - Part I: Girl
+                - Historical Fiction
+                - Lahore

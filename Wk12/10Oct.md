@@ -39,6 +39,7 @@ The purpose of a list of characters, like in a play, is so that characters can b
 
 The book is narrated in first person by Rani Jindan, and is organised in four parts, based on the periods of her life – Girl, Bride, Queen, and Rebel. This indicates that the author is concerned with history, and the narrative is not completelu fictionalised. However, the first two parts are, by necessity, largely speculation.
 
-## Rani Jindan
+## Prologue
+### Rani Jindan
 From the prologue, we get insights into the character of Rani Jindan – she has never cared to cajole gifts from her husband, and she is unfazed by the unfriendly glances of the other wives of the Maharaja.  
 We can tell that she has a status different from the other queens, and has a special understanding with the Maharaja.
