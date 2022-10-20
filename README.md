@@ -142,3 +142,11 @@ Notes and resources for the Introduction to Literature course at IIIT Hyderabad.
             - Part I: Girl
                 - Historical Fiction
                 - Lahore
+* Week 13
+    * Lecture 21 (20 October, Thursday)
+        - Readings (The Last Queen) (contd.)
+            - Words in Indian Languages
+            - Imagery & Language
+            - Maharaja Ranjit Singh
+            - Jindan and the Maharaja
+            - Speech Acts and Power
