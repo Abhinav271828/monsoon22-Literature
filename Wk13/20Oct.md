@@ -34,5 +34,3 @@ His treatment by the other characters ("Who dares question [the motives of kings
 
 ## Jindan and the Maharaja
 The Maharaja is clearly a figure of fascination and interest to Jindan long before they meet.
-
-## Speech Acts and Power

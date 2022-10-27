@@ -149,4 +149,7 @@ Notes and resources for the Introduction to Literature course at IIIT Hyderabad.
             - Imagery & Language
             - Maharaja Ranjit Singh
             - Jindan and the Maharaja
-            - Speech Acts and Power
+* Week 14
+    * Lecture 22 (27 October, Thursday)
+        - Readings (The Last Queen)
+            - Jindan and the Maharaja (contd.)
