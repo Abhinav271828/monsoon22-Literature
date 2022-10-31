@@ -153,3 +153,14 @@ Notes and resources for the Introduction to Literature course at IIIT Hyderabad.
     * Lecture 22 (27 October, Thursday)
         - Readings (The Last Queen)
             - Jindan and the Maharaja (contd.)
+            - Historical Fiction
+            - Marital Alliances and Polygyny
+* Week 15
+    * Lecture 23 (31 October, Monday)
+        - Readings (The Last Queen)
+            - Marital Alliances and Polygyny (contd.)
+            - Jindan's Political Acumen
+            - Time and Narrative Structure
+            - Material Setting
+            - The British
+            - The Court
