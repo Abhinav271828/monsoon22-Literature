@@ -7,7 +7,7 @@ Notes and resources for the Introduction to Literature course at IIIT Hyderabad.
 - [x] Poetry
 - [x] Drama
 - [x] Digital Literature
-- [ ] Novel
+- [x] Novel
 
 # Lecture Contents
 * Week 1
