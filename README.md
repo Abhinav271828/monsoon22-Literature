@@ -164,3 +164,8 @@ Notes and resources for the Introduction to Literature course at IIIT Hyderabad.
             - Material Setting
             - The British
             - The Court
+    * Lecture 24 (03 November, Thursday)
+        - Readings (The Last Queen) (contd.)
+            - Time and Narrative Structure
+            - Maharaja Dalip Singh
+            - Jindan in Britain

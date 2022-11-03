@@ -2,7 +2,7 @@
 title: Introduction to Literature (HS1.204)
 subtitle: |
           | Monsoon 2022, IIIT Hyderabad
-          | 27 October, Thursday (Lecture 21)
+          | 31 October, Monday (Lecture 21)
 author: Taught by Prof. Nazia Akhtar
 header-includes:
 - \newfontfamily\devanagarifont{KohinoorDevanagari-Regular}
