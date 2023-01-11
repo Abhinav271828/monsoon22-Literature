@@ -66,6 +66,7 @@
 * karhi, chhole
 + cauliflower, goat curry
 * jalebis
+* sharbat
 * modhas
 + toddy
 
@@ -307,3 +308,184 @@
 [100]
 * surma from Persia XXX
 * choli
+
+[101]
+* baraat
+
+[102]
+* mohur
+* pota XXX
+
+[103]
++ send-off
++ welcoming XXX
+
+[104]
+* attar XXX
+
+[106]
+* dholak
+* ji
++ feast
+
+[107]
++ my dearest XXX
+
+[109]
++ queen-mother
++ "the evil eye" BRUH XXX
+* nazar-beads
+
+[112]
+* kursi, sharbat, mithai
+
+[114]
++ kismet
+
+[115]
+* dai
++ bad-luck things XXX
+
+[117]
+* baithak
+
+[119]
+* Pisces and Pisces XXX
+
+[121]
+* tanpura
+* khichri, alu parathas
+* taabiz
+
+[122]
+* toshakhana
+
+[123]
+* bawarchi, biriyani
++ cardamom
+
+[125] – Jawahar's visit: more IL
+* kurnish
+* janaab
++ nephew XXX
+* arrey puttar
+
+[127]
+* Lahori
+
+[129]
+* bhainji
+* Ye na thi hamari kismat XXX
+* sherwani
+
+[130]
+* pishwas
+
+[131]
+* saala XXX – wordplay
+
+[134]
+* attar
+
+[136]
+* thali
+
+[138]
+* shalmali
+
+[140]
+* Baisakhi
+
+[141]
+* tika
+
+[142]
+* salat-al-Janazah
+
+[143]
+* sati
+* devi - translated XXX
+
+[144]
+* jinn
+
+[146]
++ my heart
+
+[147]
++ sandalwood
+
+[148]
+* beti
+
+[149]
+* munshi
++ ashes
+
+[152]
+* gur XXX callback
+
+[158]
+* chai
+
+[159]
+* Shahzada
+
+[160]
+* mithai
+* sherwani
+
+[162]
+* kursi
+
+[165]
+* Raja ji
+
+[166]
+* firman XXX administrative
+
+[167]
++ lotus stem
+* Malika Mukaddas
+
+[169]
++ lentils
++ buttermilk
+* chapati
+
+[177]
+* Raja-e-Rajgan
+* baithak
+
+[181]
+* panch
+* veer
+
+[183]
+* jagir
++ banquet
+
+[184]
+* Kanwar
+
+[186]
++ uncle
+* puttar
+* maidan
+
+[195]
+* veer
+
+[201]
+* kalgi
+* my chand
+* biriyani; rogan josh
+
+[209]
+* tunda laat
+
+[213]
+* chechak XXX (maid)
+
+[216]
+* Sankant
